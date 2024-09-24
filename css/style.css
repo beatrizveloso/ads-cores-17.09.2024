@@ -1,0 +1,29 @@
+.conteiner{
+    width: 300px;
+    height: 300px;
+    margin: auto;
+}
+.cores{
+    display: flex;
+}
+
+.azu{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+.ver{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+
+.ama{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+
+body {
+    background-color: #a3e9fe;
+}
